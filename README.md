@@ -14,32 +14,32 @@ At HubSpot, I’ve contributed to:
 - Real-time data ingestion and retrieval systems enabling **sub-200ms access** to tens of millions of CRM records  
 - Scalable **streaming and batch pipelines** using Kafka, AWS, and Snowflake  
 - Python-based parsers that convert **unstructured sales transcripts and emails** into ML-ready datasets  
-- Snowflake compute optimization, significantly reducing cloud costs while supporting AI workloads  
-- **Role-based access controls** to ensure GDPR-compliant handling of sensitive customer data  
+- Snowflake compute optimization, reducing cloud costs while supporting large AI workloads  
+- **Role-based access controls** ensuring GDPR-compliant handling of sensitive customer data  
 
-Previously, I worked at **Genpact** and **Wipro**, where I built robust ELT pipelines, optimized SQL-based analytics workflows, and supported enterprise-scale data platforms. Across roles, I consistently translated ambiguous business requirements into **reliable, production-grade data solutions**.
+Previously, I worked at **Genpact** and **Wipro**, where I built robust ELT pipelines, optimized SQL-based analytics workflows, and supported enterprise-scale data platforms.
 
-I also hold a **Master’s degree in Applied Data Science (GPA: 4.0)**, where I gained deep hands-on experience with **big data systems, machine learning, NLP, and advanced analytics**.
+I also hold a **Master’s degree in Applied Data Science (GPA: 4.0)** from Syracuse University.
 
 ---
 
 ## 🏗️ Professional Experience Highlights
 
 ### 💼 Data Engineer — HubSpot
-- Engineered real-time data retrieval layers enabling AI agents to access large-scale CRM data with ultra-low latency  
-- Built scalable Kafka-based streaming pipelines and Snowflake ELT workflows  
-- Developed Python data parsers for unstructured text ingestion and ML preprocessing  
-- Optimized Snowflake compute strategies for high-volume AI workloads  
-- Implemented secure access controls for sensitive customer and PII data  
+- Engineered real-time data retrieval layers for AI agents using Kafka and cloud-native architectures  
+- Built scalable batch and streaming pipelines supporting tens of millions of CRM records  
+- Developed Python parsers to structure unstructured text data for analytics and ML use cases  
+- Optimized Snowflake workloads to balance performance and cost  
+- Implemented secure access controls for sensitive and regulated data  
 
 ### 💼 Data Engineer — Genpact
-- Built and maintained ELT pipelines for analytics and reporting  
-- Optimized complex SQL queries and data models for performance  
-- Collaborated with cross-functional teams to deliver business-aligned data solutions  
+- Built and maintained ELT pipelines supporting analytics and reporting  
+- Optimized complex SQL queries and data models  
+- Partnered with business and engineering teams to deliver data-driven solutions  
 
 ### 💼 Data Engineer — Wipro
 - Supported enterprise data platforms with ingestion, transformation, and reporting workflows  
-- Automated reporting and data quality checks  
+- Automated reporting pipelines and data quality checks  
 - Assisted in modernizing legacy data systems  
 
 ---
@@ -78,35 +78,54 @@ I also hold a **Master’s degree in Applied Data Science (GPA: 4.0)**, where I 
 
 ---
 
-## 📂 Featured Projects
+## 📂 Featured Projects (From Resume)
 
-### 🔹 Product Analysis & Consumer Insights Through Reviews
-- Processed and analyzed Amazon appliance reviews using **BERT embeddings**  
-- Clustered reviews into product subcategories using **K-Means**  
-- Visualized embeddings using **UMAP, t-SNE, and PCA**  
-- Generated sentiment-driven summaries using GPT-based labeling  
-- Delivered actionable insights for product and consumer analysis  
+### 🔹 Product Analysis and Consumer Insights Through Reviews
+- Processed and analyzed **Amazon appliance reviews** using BERT embeddings  
+- Clustered reviews into **90+ product subcategories** using K-Means  
+- Applied **UMAP, t-SNE, and PCA** to visualize embeddings and refine clusters  
+- Generated sentiment summaries using GPT-based labeling  
+- Delivered actionable insights for consumer behavior and product analysis  
 
-### 🔹 Scalable Data Platforms & Pipelines
-- Designed real-time streaming pipelines using Kafka  
-- Built cloud-native ELT workflows on Snowflake  
-- Implemented governance and access controls for sensitive data  
-- Optimized pipelines for performance, reliability, and cost  
+---
 
-### 🔹 Big Data & Cloud Engineering Projects
-- Distributed processing with Spark on large-scale datasets  
-- End-to-end AWS data pipelines using serverless and managed services  
-- Dockerized multi-service data ecosystems for experimentation  
+### 🔹 Driver Drowsiness Detection System
+- Built a real-time driver drowsiness detection system using **MobileNetV2**  
+- Processed **41K+ facial images** for model training and evaluation  
+- Achieved **96% accuracy** using eye-aspect ratio (EAR) and deep learning  
+- Implemented real-time detection using OpenCV and MediaPipe  
 
-*(Each repository includes detailed documentation, architecture diagrams, and reproducible workflows.)*
+---
+
+### 🔹 Energy Consumption Analysis & Prediction
+- Analyzed **4.2M+ rows** of residential energy consumption data  
+- Built predictive models using **SVM** in R  
+- Identified efficiency patterns across climate zones and housing characteristics  
+- Developed interactive visualizations using **R Shiny** to communicate insights  
+
+---
+
+### 🔹 FudgeMart & FudgeFlix Data Integration Project
+- Designed a **star-schema data model** using Snowflake and dbt  
+- Built end-to-end ELT pipelines integrating transactional and review data  
+- Implemented version-controlled transformations using Git and dbt  
+- Created Power BI dashboards highlighting top customers and reviewers  
+
+---
+
+### 🔹 NYC Motor Vehicle Collisions – Visual Analytics Dashboard
+- Built multi-dashboard visual analytics solution using **Tableau**  
+- Analyzed crash patterns by time, location, and contributing factors  
+- Created spatial heatmaps, trend analysis, and severity insights  
+- Delivered data-driven recommendations for urban safety and planning  
 
 ---
 
 ## 📜 Certifications
 
-- 🏅 AWS Certified Data Engineer – Associate  
-- 🏅 AWS AI Practitioner  
-- 🏅 IBM Machine Learning with Python  
+- 🏅 **AWS Certified Data Engineer – Associate**  
+- 🏅 **AWS AI Practitioner**  
+- 🏅 **IBM Machine Learning with Python**  
 
 ---
 
@@ -126,7 +145,3 @@ I also hold a **Master’s degree in Applied Data Science (GPA: 4.0)**, where I 
 
 - 💼 **LinkedIn:** [Vinay Kumar Chandra](https://www.linkedin.com/in/-vinaykumar2701/)
 - 📧 **Email:** vinaykumarr2100@gmail.com  
-
----
-
-⭐️ *If you find my work helpful, feel free to star ⭐ my repositories or reach out for collaboration!*
