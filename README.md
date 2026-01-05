@@ -89,8 +89,8 @@ I hold a **Master’s in Applied Data Science (4.0 GPA)** and enjoy solving comp
 
 ## 🤝 Let’s Connect
 
-- 💼 LinkedIn: *Add your LinkedIn URL here*
-- 📧 Email: vchand03@syr.edu
+- 💼 LinkedIn: [*LinkedIn*](https://www.linkedin.com/in/-vinaykumar2701/)
+- 📧 Email: vinaykumarr2100@gmail.com
 
 ---
 
