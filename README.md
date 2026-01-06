@@ -144,4 +144,4 @@ I also hold a **Master’s degree in Applied Data Science (GPA: 4.0)** from Syra
 📌 Open to conversations around **Data Engineering, AI Platforms, and Cloud Systems**
 
 - 💼 **LinkedIn:** [Vinay Kumar Chandra](https://www.linkedin.com/in/-vinaykumar2701/)
-- 📧 **Email:** vinaykumarr2100@gmail.com  
+- 📧 **Email:** vinaykumarr2700@gmail.com  
